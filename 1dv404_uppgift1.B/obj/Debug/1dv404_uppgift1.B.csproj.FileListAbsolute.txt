@@ -1,0 +1,6 @@
+c:\users\topco_000\documents\visual studio 2013\Projects\1dv404_uppgift1.B\1dv404_uppgift1.B\bin\Debug\1dv404_uppgift1.B.exe.config
+c:\users\topco_000\documents\visual studio 2013\Projects\1dv404_uppgift1.B\1dv404_uppgift1.B\obj\Debug\1dv404_uppgift1.B.csprojResolveAssemblyReference.cache
+c:\users\topco_000\documents\visual studio 2013\Projects\1dv404_uppgift1.B\1dv404_uppgift1.B\bin\Debug\1dv404_uppgift1.B.exe
+c:\users\topco_000\documents\visual studio 2013\Projects\1dv404_uppgift1.B\1dv404_uppgift1.B\bin\Debug\1dv404_uppgift1.B.pdb
+c:\users\topco_000\documents\visual studio 2013\Projects\1dv404_uppgift1.B\1dv404_uppgift1.B\obj\Debug\1dv404_uppgift1.B.exe
+c:\users\topco_000\documents\visual studio 2013\Projects\1dv404_uppgift1.B\1dv404_uppgift1.B\obj\Debug\1dv404_uppgift1.B.pdb
