@@ -1,0 +1,6 @@
+c:\users\topco_000\documents\visual studio 2013\Projects\Uppgift3.B\Uppgift3.B\bin\Debug\Uppgift3.B.exe.config
+c:\users\topco_000\documents\visual studio 2013\Projects\Uppgift3.B\Uppgift3.B\obj\Debug\Uppgift3.B.csprojResolveAssemblyReference.cache
+c:\users\topco_000\documents\visual studio 2013\Projects\Uppgift3.B\Uppgift3.B\bin\Debug\Uppgift3.B.exe
+c:\users\topco_000\documents\visual studio 2013\Projects\Uppgift3.B\Uppgift3.B\bin\Debug\Uppgift3.B.pdb
+c:\users\topco_000\documents\visual studio 2013\Projects\Uppgift3.B\Uppgift3.B\obj\Debug\Uppgift3.B.exe
+c:\users\topco_000\documents\visual studio 2013\Projects\Uppgift3.B\Uppgift3.B\obj\Debug\Uppgift3.B.pdb
